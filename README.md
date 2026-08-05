@@ -1,1 +1,1 @@
-# TH_DeepLearning_Tuan3
+# Artificial Neural Networks practice
